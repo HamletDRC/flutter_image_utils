@@ -1,7 +1,9 @@
-name: flutter_image_utils
+name: flutter_simple_image_utils
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/HamletDRC/flutter_image_utils
+repository: https://github.com/HamletDRC/flutter_image_utils
+
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
